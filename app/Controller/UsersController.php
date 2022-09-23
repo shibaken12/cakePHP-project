@@ -196,7 +196,7 @@ class UsersController extends AppController {
 			//ユーザ情報が取得できないとき
 			if (!$resetuser) {
 				$this->Flash->error(__('不正なアクセスです。再度お試しください'));
-				//ユーザ情報を取得できれば
+			//ユーザ情報を取得できれば
 			} else {
 				$date1 = new DateTime();
 				$current_time = $date1->format('Y-m-d H:i:s');

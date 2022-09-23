@@ -1,0 +1,2206 @@
+2022-08-07 12:08:57 Error: [Error] Call to a member function success() on null
+Request URL: /shibata468/cake/posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-07 12:16:23 Error: [Error] Call to a member function success() on null
+Request URL: /shibata468/cake/posts/edit/1
+Stack Trace:
+#0 [internal function]: PostsController->edit('1')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-07 12:30:45 Error: [Error] Call to a member function success() on null
+Request URL: /shibata468/cake/posts/edit/1
+Stack Trace:
+#0 [internal function]: PostsController->edit('1')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-07 12:36:45 Error: [Error] Call to a member function success() on null
+Request URL: /shibata468/cake/posts/edit/1
+Stack Trace:
+#0 [internal function]: PostsController->edit('1')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-07 12:37:06 Error: [Error] Call to a member function success() on null
+Request URL: /shibata468/cake/posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-07 12:45:56 Error: [Error] Call to a member function success() on null
+Request URL: /shibata468/cake/posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-08 17:57:10 Error: [Error] Call to a member function find() on null
+Request URL: /shibata468/cake/
+Stack Trace:
+#0 [internal function]: PostsController->index()
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-10 11:57:40 Error: [MissingViewException] View file "Users/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users/index.ctp',
+)
+Request URL: /shibata468/cake/Users
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName('Users/index')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-10 12:13:09 Error: [MissingViewException] View file "Users/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users/index.ctp',
+)
+Request URL: /shibata468/cake/Users
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName('Users/index')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-10 16:36:27 Error: [TypeError] Argument 1 passed to Hash::get() must be of the type array, string given, called in /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php on line 678
+Request URL: /shibata468/cake/posts/add
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(678): Hash::get('ito@a.com', 'id')
+#1 /home/www/shibata468/cake/app/Controller/PostsController.php(32): AuthComponent::user('id')
+#2 [internal function]: PostsController->add()
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#6 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2022-08-10 16:39:56 Error: [TypeError] Argument 1 passed to Hash::get() must be of the type array, string given, called in /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php on line 678
+Request URL: /shibata468/cake/posts/add
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(678): Hash::get('ito@a.com', 'id')
+#1 /home/www/shibata468/cake/app/Controller/PostsController.php(32): AuthComponent::user('id')
+#2 [internal function]: PostsController->add()
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#6 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2022-08-10 17:29:16 Error: [TypeError] Argument 1 passed to Hash::get() must be of the type array, string given, called in /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php on line 678
+Request URL: /shibata468/cake/posts/add
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(678): Hash::get('ito@a.com', 'id')
+#1 /home/www/shibata468/cake/app/Controller/PostsController.php(32): AuthComponent::user('id')
+#2 [internal function]: PostsController->add()
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#6 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2022-08-10 18:31:59 Error: [TypeError] Argument 1 passed to Hash::get() must be of the type array, string given, called in /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php on line 678
+Request URL: /shibata468/cake/posts/add
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(678): Hash::get('ito@a.com', 'id')
+#1 /home/www/shibata468/cake/app/Controller/PostsController.php(32): AuthComponent::user('id')
+#2 [internal function]: PostsController->add()
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#6 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2022-08-10 19:23:47 Error: [TypeError] Argument 1 passed to Hash::get() must be of the type array, string given, called in /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php on line 678
+Request URL: /shibata468/cake/posts/add
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(678): Hash::get('ito@a.com', 'id')
+#1 /home/www/shibata468/cake/app/Controller/PostsController.php(32): AuthComponent::user('id')
+#2 [internal function]: PostsController->add()
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#6 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2022-08-10 21:44:03 Error: [TypeError] Argument 1 passed to Hash::get() must be of the type array, string given, called in /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php on line 678
+Request URL: /shibata468/cake/posts/add
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(678): Hash::get('goto@a.com', 'id')
+#1 /home/www/shibata468/cake/app/Controller/PostsController.php(32): AuthComponent::user('id')
+#2 [internal function]: PostsController->add()
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#6 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2022-08-10 21:52:47 Error: [PDOException] SQLSTATE[HY000]: General error: 1364 Field 'delete_flg' doesn't have a default value
+Request URL: /shibata468/cake/posts/add
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1132): DboSource->execute('INSERT INTO `pr...')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1942): DboSource->create(Object(Post), Array, Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#5 /home/www/shibata468/cake/app/Controller/PostsController.php(33): Model->save(Array)
+#6 [internal function]: PostsController->add()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#10 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2022-08-10 21:55:48 Error: [MissingControllerException] Controller class Shibata468Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Shibata468Controller',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-10 21:55:57 Error: [MissingControllerException] Controller class Shibata468Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Shibata468Controller',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-10 21:58:48 Error: [MissingControllerException] Controller class Shibata468Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Shibata468Controller',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-10 22:05:57 Error: [MissingControllerException] Controller class Shibata468Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Shibata468Controller',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-11 14:57:15 Error: [MissingControllerException] Controller class Shibata468Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Shibata468Controller',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-11 14:57:50 Error: [MissingControllerException] Controller class Shibata468Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Shibata468Controller',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-11 15:02:41 Error: [MissingControllerException] Controller class Shibata468Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Shibata468Controller',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-11 15:05:57 Error: [MissingControllerException] Controller class Shibata468Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Shibata468Controller',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-11 15:07:46 Error: [MissingControllerException] Controller class Shibata468Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Shibata468Controller',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-11 15:08:26 Error: [MissingControllerException] Controller class Shibata468Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Shibata468Controller',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-11 15:08:31 Error: [MissingControllerException] Controller class Shibata468Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Shibata468Controller',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-11 15:09:30 Error: [MissingControllerException] Controller class Shibata468Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Shibata468Controller',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-11 15:09:33 Error: [MissingControllerException] Controller class Shibata468Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Shibata468Controller',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-11 15:16:56 Error: [ParseError] syntax error, unexpected '$this' (T_VARIABLE)
+Request URL: /shibata468/cake/Users/logout
+Stack Trace:
+#0 [internal function]: App::load('UsersController')
+#1 [internal function]: spl_autoload_call('UsersController')
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('UsersController')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2022-08-11 16:11:48 Error: [MissingControllerException] Controller class Shibata468Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Shibata468Controller',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-11 16:12:21 Error: [MissingControllerException] Controller class Shibata468Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Shibata468Controller',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-11 16:13:04 Error: [MissingControllerException] Controller class Shibata468Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Shibata468Controller',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-11 16:13:10 Error: [MissingControllerException] Controller class Shibata468Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Shibata468Controller',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-11 16:14:14 Error: [MissingControllerException] Controller class Shibata468Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Shibata468Controller',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-11 16:16:23 Error: [MissingControllerException] Controller class Shibata468Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Shibata468Controller',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-11 16:18:51 Error: [MissingControllerException] Controller class Shibata468Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Shibata468Controller',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/debug_kit/toolbar_access/history_state/4
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Core/CakeObject.php(104): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/RequestHandlerComponent.php(279): CakeObject->requestAction('/shibata468/cak...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Utility/ObjectCollection.php(129): RequestHandlerComponent->beforeRedirect(Object(ToolbarAccessController), '/shibata468/cak...', NULL, true)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Event/CakeEventManager.php(244): ObjectCollection->trigger('beforeRedirect')
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(775): CakeEventManager->dispatch(Object(CakeEvent))
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(423): Controller->redirect('/shibata468/cak...')
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(316): AuthComponent->_unauthorized(Object(ToolbarAccessController))
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Utility/ObjectCollection.php(129): AuthComponent->startup(Object(ToolbarAccessController))
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Event/CakeEventManager.php(244): ObjectCollection->trigger('startup')
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(683): CakeEventManager->dispatch(Object(CakeEvent))
+#10 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#11 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ToolbarAccessController), Object(CakeRequest))
+#12 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2022-08-11 16:30:30 Error: [MissingControllerException] Controller class Shibata468Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Shibata468Controller',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-11 16:41:41 Error: [Error] Call to undefined method AppController::isAuthorized()
+Request URL: /shibata468/cake/posts/edit/29
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/Auth/ControllerAuthorize.php(63): PostsController->isAuthorized('goto@a.com')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(470): ControllerAuthorize->authorize('goto@a.com', Object(CakeRequest))
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(311): AuthComponent->isAuthorized('goto@a.com')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Utility/ObjectCollection.php(129): AuthComponent->startup(Object(PostsController))
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Event/CakeEventManager.php(244): ObjectCollection->trigger('startup')
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(683): CakeEventManager->dispatch(Object(CakeEvent))
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#8 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2022-08-11 16:42:12 Error: [Error] Call to undefined method AppController::isAuthorized()
+Request URL: /shibata468/cake/posts/edit/27
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/Auth/ControllerAuthorize.php(63): PostsController->isAuthorized('goto@a.com')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(470): ControllerAuthorize->authorize('goto@a.com', Object(CakeRequest))
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(311): AuthComponent->isAuthorized('goto@a.com')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Utility/ObjectCollection.php(129): AuthComponent->startup(Object(PostsController))
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Event/CakeEventManager.php(244): ObjectCollection->trigger('startup')
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(683): CakeEventManager->dispatch(Object(CakeEvent))
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#8 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2022-08-11 16:44:56 Error: [Error] Call to undefined method AppController::isAuthorized()
+Request URL: /shibata468/cake/posts/edit/29
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/Auth/ControllerAuthorize.php(63): PostsController->isAuthorized('goto@a.com')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(470): ControllerAuthorize->authorize('goto@a.com', Object(CakeRequest))
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(311): AuthComponent->isAuthorized('goto@a.com')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Utility/ObjectCollection.php(129): AuthComponent->startup(Object(PostsController))
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Event/CakeEventManager.php(244): ObjectCollection->trigger('startup')
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(683): CakeEventManager->dispatch(Object(CakeEvent))
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#8 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2022-08-11 16:47:15 Error: [Error] Call to undefined method AppController::isAuthorized()
+Request URL: /shibata468/cake/posts/edit/29
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/Auth/ControllerAuthorize.php(63): PostsController->isAuthorized('goto@a.com')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(470): ControllerAuthorize->authorize('goto@a.com', Object(CakeRequest))
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(311): AuthComponent->isAuthorized('goto@a.com')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Utility/ObjectCollection.php(129): AuthComponent->startup(Object(PostsController))
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Event/CakeEventManager.php(244): ObjectCollection->trigger('startup')
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(683): CakeEventManager->dispatch(Object(CakeEvent))
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#8 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2022-08-11 17:02:35 Error: [CakeException] $controller does not implement an isAuthorized() method.
+Request URL: /shibata468/cake/posts/edit/15
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/Auth/BaseAuthorize.php(72): ControllerAuthorize->controller(Object(PostsController))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(505): BaseAuthorize->__construct(Object(ComponentCollection), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(467): AuthComponent->constructAuthorize()
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(311): AuthComponent->isAuthorized('goto@a.com')
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Utility/ObjectCollection.php(129): AuthComponent->startup(Object(PostsController))
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Event/CakeEventManager.php(244): ObjectCollection->trigger('startup')
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(683): CakeEventManager->dispatch(Object(CakeEvent))
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#9 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2022-08-11 18:08:13 Error: [TypeError] Argument 1 passed to Hash::get() must be of the type array, string given, called in /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php on line 678
+Request URL: /shibata468/cake/Posts/add
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(678): Hash::get('a', 'id')
+#1 /home/www/shibata468/cake/app/Controller/PostsController.php(32): AuthComponent::user('id')
+#2 [internal function]: PostsController->add()
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#6 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2022-08-11 22:08:54 Error: [MissingHelperException] Helper class AuthHelper could not be found.
+Exception Attributes: array (
+  'class' => 'AuthHelper',
+  'plugin' => false,
+)
+Request URL: /shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/View.php(907): HelperCollection->load('Auth', Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/View.php(354): View->loadHelpers()
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(1268): View->__construct(Object(PostsController))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(954): Controller->_getViewObject()
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#6 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2022-08-11 23:00:31 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@`a`.`com`    LIMIT 1' at line 1
+Request URL: /shibata468/cake/users/login
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `User`.`...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `User`.`...', Array, Array)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `User`.`...', Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3053): DboSource->read(Object(User), Array)
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3025): Model->_readDataSource('first', Array)
+#6 /home/www/shibata468/cake/app/Controller/UsersController.php(83): Model->find('first', Array)
+#7 [internal function]: UsersController->login()
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#11 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2022-08-11 23:35:15 Error: [MissingHelperException] Helper class AuthHelper could not be found.
+Exception Attributes: array (
+  'class' => 'AuthHelper',
+  'plugin' => false,
+)
+Request URL: /shibata468/cake/users/login
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/View.php(907): HelperCollection->load('Auth', Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/View.php(354): View->loadHelpers()
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(1268): View->__construct(Object(UsersController))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(954): Controller->_getViewObject()
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#6 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2022-08-12 12:40:43 Error: [ParseError] syntax error, unexpected '&'
+Request URL: /shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/home/www/shiba...', Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/View.php(473): View->_render('/home/www/shiba...')
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#5 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2022-08-12 13:03:41 Error: [MethodNotAllowedException] Method Not Allowed
+Request URL: /shibata468/cake/Posts/delete/1
+Stack Trace:
+#0 [internal function]: PostsController->delete('1')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-12 14:33:17 Error: [Error] Call to undefined method View::redirect()
+Request URL: /shibata468/cake/posts/edit/31
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/View.php(971): include()
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/home/www/shiba...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/View.php(473): View->_render('/home/www/shiba...')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#6 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2022-08-12 14:39:34 Error: [NotFoundException] 無効な投稿です
+Request URL: /shibata468/cake/posts/edit/0
+Stack Trace:
+#0 [internal function]: PostsController->edit('0')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-12 14:40:05 Error: [NotFoundException] 無効な投稿です
+Request URL: /shibata468/cake/posts/edit/0
+Stack Trace:
+#0 [internal function]: PostsController->edit('0')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-12 14:40:20 Error: [NotFoundException] 無効な投稿です
+Request URL: /shibata468/cake/posts/edit/199
+Stack Trace:
+#0 [internal function]: PostsController->edit('199')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-12 14:40:46 Error: [NotFoundException] 無効な投稿です
+Request URL: /shibata468/cake/posts/edit/199
+Stack Trace:
+#0 [internal function]: PostsController->edit('199')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-12 14:41:04 Error: [NotFoundException] 無効な投稿です
+Request URL: /shibata468/cake/posts/edit/199
+Stack Trace:
+#0 [internal function]: PostsController->edit('199')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-12 14:41:27 Error: [NotFoundException] 無効な投稿です
+Request URL: /shibata468/cake/posts/edit/199
+Stack Trace:
+#0 [internal function]: PostsController->edit('199')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-12 16:55:42 Error: [NotFoundException] 無効な投稿です
+Request URL: /shibata468/cake/posts/edit/38
+Stack Trace:
+#0 [internal function]: PostsController->edit('38')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-12 17:25:29 Error: [ParseError] syntax error, unexpected '?>', expecting function (T_FUNCTION) or const (T_CONST)
+Request URL: /shibata468/cake/
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2022-08-12 17:25:49 Error: [ParseError] syntax error, unexpected '?>', expecting function (T_FUNCTION) or const (T_CONST)
+Request URL: /shibata468/cake/
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2022-08-12 17:25:50 Error: [ParseError] syntax error, unexpected '?>', expecting function (T_FUNCTION) or const (T_CONST)
+Request URL: /shibata468/cake/
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2022-08-12 17:25:59 Error: [ParseError] syntax error, unexpected '?>', expecting function (T_FUNCTION) or const (T_CONST)
+Request URL: /shibata468/cake/
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2022-08-12 17:49:31 Error: [MissingActionException] Action PostsController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'login',
+)
+Request URL: /shibata468/cake/posts/login
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-12 17:53:56 Error: [MissingActionException] Action PostsController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'login',
+)
+Request URL: /shibata468/cake/posts/login
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-12 17:53:58 Error: [MissingActionException] Action PostsController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'login',
+)
+Request URL: /shibata468/cake/posts/login
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-12 17:54:17 Error: [MissingActionException] Action PostsController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'login',
+)
+Request URL: /shibata468/cake/posts/login
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-12 17:55:06 Error: [MissingActionException] Action PostsController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'login',
+)
+Request URL: /shibata468/cake/posts/login
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-12 17:56:21 Error: [MissingActionException] Action PostsController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'login',
+)
+Request URL: /shibata468/cake/posts/login
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-12 17:57:25 Error: [MissingActionException] Action PostsController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'login',
+)
+Request URL: /shibata468/cake/posts/login
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-12 17:58:07 Error: [MissingActionException] Action PostsController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'login',
+)
+Request URL: /shibata468/cake/posts/login
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-12 18:01:40 Error: [MissingViewException] View file "Users/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users/index.ctp',
+)
+Request URL: /shibata468/cake/users
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName('Users/index')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-12 18:02:23 Error: [MissingViewException] View file "Users/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users/index.ctp',
+)
+Request URL: /shibata468/cake/users
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName('Users/index')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-12 18:26:42 Error: [MissingBehaviorException] Behavior class SoftDeleteBehavior could not be found.
+Exception Attributes: array (
+  'class' => 'SoftDeleteBehavior',
+  'plugin' => false,
+)
+Request URL: /shibata468/cake/posts/add
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(66): BehaviorCollection->load('SoftDelete', Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(781): BehaviorCollection->init('Post', Array)
+#2 [internal function]: Model->__construct(NULL)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Utility/ClassRegistry.php(169): ReflectionClass->newInstance(Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/Helper/FormHelper.php(163): ClassRegistry::init('Post')
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/Helper/FormHelper.php(204): FormHelper->_getModel('Post')
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/Helper/FormHelper.php(354): FormHelper->_introspectModel('Post', 'key')
+#7 /home/www/shibata468/cake/app/View/Posts/add.ctp(5): FormHelper->create('Post')
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/View.php(971): include('/home/www/shiba...')
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/home/www/shiba...', Array)
+#10 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/View.php(473): View->_render('/home/www/shiba...')
+#11 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#12 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#13 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#14 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2022-08-12 18:31:26 Error: [MissingBehaviorException] Behavior class SoftDeleteBehavior could not be found.
+Exception Attributes: array (
+  'class' => 'SoftDeleteBehavior',
+  'plugin' => false,
+)
+Request URL: /shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/BehaviorCollection.php(66): BehaviorCollection->load('SoftDelete', Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(781): BehaviorCollection->init('Post', Array)
+#2 [internal function]: Model->__construct(NULL)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Utility/ClassRegistry.php(169): ReflectionClass->newInstance(Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(746): ClassRegistry::init('Post')
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(376): Controller->loadModel('Post')
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(414): Controller->__isset('Post')
+#7 /home/www/shibata468/cake/app/Controller/PostsController.php(14): Controller->__get('Post')
+#8 [internal function]: PostsController->index()
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#10 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#12 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2022-08-12 18:37:08 Error: [MissingPluginException] Plugin Utils could not be found.
+Exception Attributes: array (
+  'plugin' => 'Utils',
+)
+Stack Trace:
+#0 /home/www/shibata468/cake/app/Config/bootstrap.php(97): CakePlugin::load('Utils')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Core/Configure.php(98): include('/home/www/shiba...')
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/bootstrap.php(432): Configure::bootstrap(true)
+#3 /home/www/shibata468/cake/app/webroot/index.php(98): include('/home/www/shiba...')
+#4 {main}
+2022-08-12 18:37:10 Error: [MissingPluginException] Plugin Utils could not be found.
+Exception Attributes: array (
+  'plugin' => 'Utils',
+)
+Stack Trace:
+#0 /home/www/shibata468/cake/app/Config/bootstrap.php(97): CakePlugin::load('Utils')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Core/Configure.php(98): include('/home/www/shiba...')
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/bootstrap.php(432): Configure::bootstrap(true)
+#3 /home/www/shibata468/cake/app/webroot/index.php(98): include('/home/www/shiba...')
+#4 {main}
+2022-08-12 18:39:08 Error: [MissingPluginException] Plugin Utils could not be found.
+Exception Attributes: array (
+  'plugin' => 'Utils',
+)
+Stack Trace:
+#0 /home/www/shibata468/cake/app/Config/bootstrap.php(97): CakePlugin::load('Utils')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Core/Configure.php(98): include('/home/www/shiba...')
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/bootstrap.php(432): Configure::bootstrap(true)
+#3 /home/www/shibata468/cake/app/webroot/index.php(98): include('/home/www/shiba...')
+#4 {main}
+2022-08-12 18:39:13 Error: [MissingPluginException] Plugin Utils could not be found.
+Exception Attributes: array (
+  'plugin' => 'Utils',
+)
+Stack Trace:
+#0 /home/www/shibata468/cake/app/Config/bootstrap.php(97): CakePlugin::load('Utils')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Core/Configure.php(98): include('/home/www/shiba...')
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/bootstrap.php(432): Configure::bootstrap(true)
+#3 /home/www/shibata468/cake/app/webroot/index.php(98): include('/home/www/shiba...')
+#4 {main}
+2022-08-12 18:39:55 Error: [MissingPluginException] Plugin Utils could not be found.
+Exception Attributes: array (
+  'plugin' => 'Utils',
+)
+Stack Trace:
+#0 /home/www/shibata468/cake/app/Config/bootstrap.php(97): CakePlugin::load('Utils')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Core/Configure.php(98): include('/home/www/shiba...')
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/bootstrap.php(432): Configure::bootstrap(true)
+#3 /home/www/shibata468/cake/app/webroot/index.php(98): include('/home/www/shiba...')
+#4 {main}
+2022-08-12 18:41:15 Error: [MissingPluginException] Plugin Utils could not be found.
+Exception Attributes: array (
+  'plugin' => 'Utils',
+)
+Stack Trace:
+#0 /home/www/shibata468/cake/app/Config/bootstrap.php(97): CakePlugin::load('Utils')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Core/Configure.php(98): include('/home/www/shiba...')
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/bootstrap.php(432): Configure::bootstrap(true)
+#3 /home/www/shibata468/cake/app/webroot/index.php(98): include('/home/www/shiba...')
+#4 {main}
+2022-08-12 18:43:30 Error: [MissingPluginException] Plugin Utils could not be found.
+Exception Attributes: array (
+  'plugin' => 'Utils',
+)
+Stack Trace:
+#0 /home/www/shibata468/cake/app/Config/bootstrap.php(97): CakePlugin::load('Utils')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Core/Configure.php(98): include('/home/www/shiba...')
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/bootstrap.php(432): Configure::bootstrap(true)
+#3 /home/www/shibata468/cake/app/webroot/index.php(98): include('/home/www/shiba...')
+#4 {main}
+2022-08-12 21:15:08 Error: [Error] Call to a member function find() on null
+Request URL: /shibata468/cake/
+Stack Trace:
+#0 [internal function]: PostsController->index()
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-12 21:55:31 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'hasInnerJoin' at line 1
+Request URL: /shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('hasInnerJoin', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('hasInnerJoin', Array, Array)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(648): DboSource->fetchAll('hasInnerJoin', Array, Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(834): DboSource->query('hasInnerJoin', Array, Object(Post))
+#5 /home/www/shibata468/cake/app/Controller/PostsController.php(17): Model->__call('hasInnerJoin', Array)
+#6 [internal function]: PostsController->index()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#10 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2022-08-12 21:59:55 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'hasInnerJoin' at line 1
+Request URL: /shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('hasInnerJoin', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('hasInnerJoin', Array, Array)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(648): DboSource->fetchAll('hasInnerJoin', Array, Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(834): DboSource->query('hasInnerJoin', Array, Object(Post))
+#5 /home/www/shibata468/cake/app/Controller/PostsController.php(17): Model->__call('hasInnerJoin', Array)
+#6 [internal function]: PostsController->index()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#10 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2022-08-12 22:00:09 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'hasInnerJoin' at line 1
+Request URL: /shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('hasInnerJoin', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('hasInnerJoin', Array, Array)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(648): DboSource->fetchAll('hasInnerJoin', Array, Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(834): DboSource->query('hasInnerJoin', Array, Object(Post))
+#5 /home/www/shibata468/cake/app/Controller/PostsController.php(17): Model->__call('hasInnerJoin', Array)
+#6 [internal function]: PostsController->index()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#10 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2022-08-12 22:00:17 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'hasInnerJoin' at line 1
+Request URL: /shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('hasInnerJoin', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('hasInnerJoin', Array, Array)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(648): DboSource->fetchAll('hasInnerJoin', Array, Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(834): DboSource->query('hasInnerJoin', Array, Object(Post))
+#5 /home/www/shibata468/cake/app/Controller/PostsController.php(17): Model->__call('hasInnerJoin', Array)
+#6 [internal function]: PostsController->index()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#10 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2022-08-12 22:00:41 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'hasInnerJoin' at line 1
+Request URL: /shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('hasInnerJoin', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('hasInnerJoin', Array, Array)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(648): DboSource->fetchAll('hasInnerJoin', Array, Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(834): DboSource->query('hasInnerJoin', Array, Object(Post))
+#5 /home/www/shibata468/cake/app/Controller/PostsController.php(17): Model->__call('hasInnerJoin', Array)
+#6 [internal function]: PostsController->index()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#10 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2022-08-12 22:00:51 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'hasInnerJoin' at line 1
+Request URL: /shibata468/cake/
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('hasInnerJoin', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('hasInnerJoin', Array, Array)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(648): DboSource->fetchAll('hasInnerJoin', Array, Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(834): DboSource->query('hasInnerJoin', Array, Object(Post))
+#5 /home/www/shibata468/cake/app/Controller/PostsController.php(17): Model->__call('hasInnerJoin', Array)
+#6 [internal function]: PostsController->index()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#10 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2022-08-13 00:00:04 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+Request URL: /shibata468/cake/
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2022-08-13 00:01:50 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+Request URL: /shibata468/cake/
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2022-08-13 00:05:39 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+Request URL: /shibata468/cake/posts/edit/38
+Stack Trace:
+#0 [internal function]: App::load('PostsController')
+#1 [internal function]: spl_autoload_call('PostsController')
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(266): class_exists('PostsController')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2022-08-13 12:54:15 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/user/profile
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-13 12:54:43 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/user/profile
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-13 12:54:49 Error: [MissingActionException] Action UsersController::profile() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'profile',
+)
+Request URL: /shibata468/cake/users/profile
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-13 12:55:14 Error: [MissingActionException] Action UsersController::profile() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'profile',
+)
+Request URL: /shibata468/cake/users/profile
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-13 12:55:19 Error: [MissingActionException] Action UsersController::profile() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'profile',
+)
+Request URL: /shibata468/cake/users/profile
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-13 13:00:20 Error: [MissingActionException] Action UsersController::profile() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'profile',
+)
+Request URL: /shibata468/cake/users/profile
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-13 13:01:00 Error: [MissingActionException] Action UsersController::profile() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'profile',
+)
+Request URL: /shibata468/cake/users/profile
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-13 13:49:16 Error: [NotFoundException] Invalid user
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 [internal function]: UsersController->edit()
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-13 14:04:32 Error: [NotFoundException] Invalid user
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 [internal function]: UsersController->edit()
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-13 14:05:01 Error: [NotFoundException] Invalid user
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 [internal function]: UsersController->edit()
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-13 14:05:07 Error: [NotFoundException] Invalid user
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 [internal function]: UsersController->edit()
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-13 14:06:08 Error: [NotFoundException] Invalid user
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 [internal function]: UsersController->edit()
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-13 15:44:04 Error: [NotFoundException] Invalid user
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 [internal function]: UsersController->edit()
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-13 18:09:13 Error: [NotFoundException] Invalid user
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 [internal function]: UsersController->edit()
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-13 18:09:19 Error: [NotFoundException] Invalid user
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 [internal function]: UsersController->edit()
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-13 18:11:14 Error: [NotFoundException] Invalid user
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 [internal function]: UsersController->edit()
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-13 18:12:20 Error: [NotFoundException] Invalid user
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 [internal function]: UsersController->edit()
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-13 18:14:06 Error: [NotFoundException] Invalid user
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 [internal function]: UsersController->edit()
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-13 18:40:07 Error: [NotFoundException] Invalid user
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 [internal function]: UsersController->edit()
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-13 18:45:07 Error: [NotFoundException] Invalid user
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 [internal function]: UsersController->edit()
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-13 19:54:01 Error: [MissingViewException] View file "Users/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users/index.ctp',
+)
+Request URL: /shibata468/cake/users
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName('Users/index')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-13 20:06:08 Error: [MissingViewException] View file "Users/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users/index.ctp',
+)
+Request URL: /shibata468/cake/users
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName('Users/index')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-13 20:26:57 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1132): DboSource->execute('INSERT INTO `pr...')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1942): DboSource->create(Object(User), Array, Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#5 /home/www/shibata468/cake/app/Controller/UsersController.php(102): Model->save(Array)
+#6 [internal function]: UsersController->edit()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#10 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2022-08-13 20:34:07 Error: [PDOException] SQLSTATE[HY000]: General error: 1364 Field 'mail' doesn't have a default value
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1132): DboSource->execute('INSERT INTO `pr...')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1942): DboSource->create(Object(User), Array, Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(NULL, Array)
+#5 /home/www/shibata468/cake/app/Controller/UsersController.php(102): Model->save(NULL)
+#6 [internal function]: UsersController->edit()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#10 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2022-08-13 20:37:13 Error: [PDOException] SQLSTATE[HY000]: General error: 1364 Field 'mail' doesn't have a default value
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1132): DboSource->execute('INSERT INTO `pr...')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1942): DboSource->create(Object(User), Array, Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(NULL, Array)
+#5 /home/www/shibata468/cake/app/Controller/UsersController.php(102): Model->save(NULL)
+#6 [internal function]: UsersController->edit()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#10 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2022-08-13 23:52:54 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1132): DboSource->execute('INSERT INTO `pr...')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1942): DboSource->create(Object(User), Array, Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#5 /home/www/shibata468/cake/app/Controller/UsersController.php(102): Model->save(Array)
+#6 [internal function]: UsersController->edit()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#10 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2022-08-14 00:06:13 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1132): DboSource->execute('INSERT INTO `pr...')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1942): DboSource->create(Object(User), Array, Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#5 /home/www/shibata468/cake/app/Controller/UsersController.php(102): Model->save(Array)
+#6 [internal function]: UsersController->edit()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#10 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2022-08-14 00:13:33 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1132): DboSource->execute('INSERT INTO `pr...')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1942): DboSource->create(Object(User), Array, Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#5 /home/www/shibata468/cake/app/Controller/UsersController.php(103): Model->save(Array)
+#6 [internal function]: UsersController->edit()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#10 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2022-08-14 00:15:14 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1132): DboSource->execute('INSERT INTO `pr...')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1942): DboSource->create(Object(User), Array, Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#5 /home/www/shibata468/cake/app/Controller/UsersController.php(103): Model->save(Array)
+#6 [internal function]: UsersController->edit()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#10 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2022-08-14 12:46:39 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1132): DboSource->execute('INSERT INTO `pr...')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1942): DboSource->create(Object(User), Array, Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#5 /home/www/shibata468/cake/app/Controller/UsersController.php(103): Model->save(Array)
+#6 [internal function]: UsersController->edit()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#10 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2022-08-14 12:59:35 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1132): DboSource->execute('INSERT INTO `pr...')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1942): DboSource->create(Object(User), Array, Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#5 /home/www/shibata468/cake/app/Controller/UsersController.php(104): Model->save(Array)
+#6 [internal function]: UsersController->edit()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#10 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2022-08-14 13:05:32 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1132): DboSource->execute('INSERT INTO `pr...')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1942): DboSource->create(Object(User), Array, Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#5 /home/www/shibata468/cake/app/Controller/UsersController.php(104): Model->save(Array)
+#6 [internal function]: UsersController->edit()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#10 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2022-08-14 13:16:27 Error: [ParseError] syntax error, unexpected end of file
+Request URL: /shibata468/cake/users/profile/2
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/View.php(933): View->_evaluate('/home/www/shiba...', Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/View.php(473): View->_render('/home/www/shiba...')
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#5 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2022-08-14 13:17:15 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1132): DboSource->execute('INSERT INTO `pr...')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1942): DboSource->create(Object(User), Array, Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#5 /home/www/shibata468/cake/app/Controller/UsersController.php(104): Model->save(Array)
+#6 [internal function]: UsersController->edit()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#10 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2022-08-14 13:50:47 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1132): DboSource->execute('INSERT INTO `pr...')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1942): DboSource->create(Object(User), Array, Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#5 /home/www/shibata468/cake/app/Controller/UsersController.php(104): Model->save(Array)
+#6 [internal function]: UsersController->edit()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#10 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2022-08-14 14:00:45 Error: [MissingActionException] Action UsersController::profile() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'profile',
+)
+Request URL: /shibata468/cake/users/profile/5
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-14 14:01:08 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1132): DboSource->execute('INSERT INTO `pr...')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1942): DboSource->create(Object(User), Array, Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#5 /home/www/shibata468/cake/app/Controller/UsersController.php(104): Model->save(Array)
+#6 [internal function]: UsersController->edit()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#10 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2022-08-14 14:02:08 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1132): DboSource->execute('INSERT INTO `pr...')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1942): DboSource->create(Object(User), Array, Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#5 /home/www/shibata468/cake/app/Controller/UsersController.php(103): Model->save(Array)
+#6 [internal function]: UsersController->edit()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#10 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2022-08-14 14:29:16 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+Request URL: /shibata468/cake/users/edit
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('UPDATE `procir_...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/Database/Mysql.php(425): DboSource->execute('UPDATE `procir_...')
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1926): Mysql->update(Object(User), '`id` = Array, `...', Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#5 /home/www/shibata468/cake/app/Controller/UsersController.php(105): Model->save(Array)
+#6 [internal function]: UsersController->edit()
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#10 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2022-08-14 14:40:48 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/img/1409759831.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-14 14:40:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/img/1409759831.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-14 14:41:33 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/img/1409759831.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-14 14:44:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/img/1409759831.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-14 14:45:15 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/img/1409759831.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-14 15:54:10 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/img/1409759831.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-14 15:55:29 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/img/1547876508.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-14 15:59:20 Error: [MissingActionException] Action UsersController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'webroot',
+)
+Request URL: /shibata468/cake/users/webroot/1547876508.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-14 15:59:59 Error: [MissingActionException] Action UsersController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'webroot',
+)
+Request URL: /shibata468/cake/users/webroot/upload/1547876508.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-14 16:00:05 Error: [MissingActionException] Action UsersController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'webroot',
+)
+Request URL: /shibata468/cake/users/webroot/upload/1547876508.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-14 16:01:27 Error: [MissingActionException] Action UsersController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'webroot',
+)
+Request URL: /shibata468/cake/users/webroot/upload/1547876508.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-14 16:01:52 Error: [MissingActionException] Action UsersController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'webroot',
+)
+Request URL: /shibata468/cake/users/webroot/upload/1547876508.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-14 16:02:44 Error: [MissingActionException] Action UsersController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'webroot',
+)
+Request URL: /shibata468/cake/users/webroot/upload/1547876508.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-14 16:15:59 Error: [MissingActionException] Action UsersController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'webroot',
+)
+Request URL: /shibata468/cake/users/webroot/upload/1547876508.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-14 16:16:18 Error: [MissingActionException] Action UsersController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'webroot',
+)
+Request URL: /shibata468/cake/users/webroot/upload/1547876508.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-14 16:23:24 Error: [MissingActionException] Action UsersController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'webroot',
+)
+Request URL: /shibata468/cake/users/webroot/upload/1547876508.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-14 16:25:12 Error: [MissingActionException] Action UsersController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'webroot',
+)
+Request URL: /shibata468/cake/users/webroot/upload/1547876508.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-14 16:25:18 Error: [MissingActionException] Action UsersController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'webroot',
+)
+Request URL: /shibata468/cake/users/webroot/upload/1547876508.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-14 16:25:24 Error: [MissingActionException] Action UsersController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'webroot',
+)
+Request URL: /shibata468/cake/users/webroot/upload/1547876508.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-14 16:25:26 Error: [MissingActionException] Action UsersController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'webroot',
+)
+Request URL: /shibata468/cake/users/webroot/upload/1547876508.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-14 16:26:56 Error: [MissingActionException] Action UsersController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'webroot',
+)
+Request URL: /shibata468/cake/users/webroot/upload/1758046749.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-14 16:31:16 Error: [MissingActionException] Action UsersController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'webroot',
+)
+Request URL: /shibata468/cake/users/webroot/upload/1758046749.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-14 16:33:57 Error: [MissingActionException] Action UsersController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'webroot',
+)
+Request URL: /shibata468/cake/users/webroot/upload/1758046749.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-14 16:34:06 Error: [MissingActionException] Action UsersController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'webroot',
+)
+Request URL: /shibata468/cake/users/webroot/upload/1758046749.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-14 16:34:37 Error: [MissingActionException] Action UsersController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'webroot',
+)
+Request URL: /shibata468/cake/users/webroot/upload/1758046749.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-14 16:34:44 Error: [MissingActionException] Action UsersController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'webroot',
+)
+Request URL: /shibata468/cake/users/webroot/upload/1758046749.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-14 16:40:42 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/img/1758046749.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-14 16:44:59 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/webroot/upload/1758046749.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-14 16:45:30 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/webroot/upload/1758046749.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-14 16:45:33 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/webroot/upload/1758046749.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-14 16:50:52 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/img/1758046749.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-14 16:51:27 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/img/1758046749.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-14 16:53:45 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/webroot/upload/1758046749.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-14 16:54:09 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/webroot/upload/1758046749.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-14 16:55:31 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/webroot/img/cake.icon.png
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-14 16:56:02 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/webroot/img/cake.icon.png
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-14 17:07:55 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/webroot/img/1044847644.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-14 17:11:48 Error: [CakeException] Can not determine the mimetype.
+Request URL: /shibata468/cake/users/edit/5
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Validator/CakeValidationRule.php(277): Validation::mimeType('1955088017', Array, Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Validator/CakeValidationSet.php(135): CakeValidationRule->process('image', Array, Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(268): CakeValidationSet->validate(Array, true)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(99): ModelValidator->errors(Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3502): ModelValidator->validates(Array)
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1838): Model->validates(Array)
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#7 /home/www/shibata468/cake/app/Controller/UsersController.php(105): Model->save(Array)
+#8 [internal function]: UsersController->edit('5')
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#10 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#12 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2022-08-14 17:12:34 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/img/2100511929.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-14 17:12:45 Error: [CakeException] Can not determine the mimetype.
+Request URL: /shibata468/cake/users/edit/5
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Validator/CakeValidationRule.php(277): Validation::mimeType('224175181.jpeg', Array, Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Validator/CakeValidationSet.php(135): CakeValidationRule->process('image', Array, Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(268): CakeValidationSet->validate(Array, true)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(99): ModelValidator->errors(Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3502): ModelValidator->validates(Array)
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1838): Model->validates(Array)
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#7 /home/www/shibata468/cake/app/Controller/UsersController.php(105): Model->save(Array)
+#8 [internal function]: UsersController->edit('5')
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#10 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#12 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2022-08-14 17:13:00 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /shibata468/cake/img/2100511929.jpeg
+Stack Trace:
+#0 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2022-08-14 17:34:07 Error: [CakeException] Can not determine the mimetype.
+Request URL: /shibata468/cake/users/edit/5
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Validator/CakeValidationRule.php(277): Validation::mimeType('996106562', Array, '\xE7\x84\xA1\xE5\x8A\xB9\xE3\x81\xAA\xE7\x94\xBB\xE5\x83\x8F...')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Validator/CakeValidationSet.php(135): CakeValidationRule->process('image', Array, Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(268): CakeValidationSet->validate(Array, true)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(99): ModelValidator->errors(Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3502): ModelValidator->validates(Array)
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1838): Model->validates(Array)
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#7 /home/www/shibata468/cake/app/Controller/UsersController.php(104): Model->save(Array)
+#8 [internal function]: UsersController->edit('5')
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#10 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#12 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2022-08-14 17:41:24 Error: [CakeException] Can not determine the mimetype.
+Request URL: /shibata468/cake/users/edit/5
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Validator/CakeValidationRule.php(277): Validation::mimeType('1660288467.jpeg', Array, '\xE7\x84\xA1\xE5\x8A\xB9\xE3\x81\xAA\xE7\x94\xBB\xE5\x83\x8F...')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Validator/CakeValidationSet.php(135): CakeValidationRule->process('image', Array, Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(268): CakeValidationSet->validate(Array, true)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(99): ModelValidator->errors(Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3502): ModelValidator->validates(Array)
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1838): Model->validates(Array)
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#7 /home/www/shibata468/cake/app/Controller/UsersController.php(108): Model->save(Array)
+#8 [internal function]: UsersController->edit('5')
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#10 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#12 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2022-08-14 17:42:13 Error: [CakeException] Can not determine the mimetype.
+Request URL: /shibata468/cake/users/edit/5
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Validator/CakeValidationRule.php(277): Validation::mimeType('483017659.jpeg', Array, Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Validator/CakeValidationSet.php(135): CakeValidationRule->process('image', Array, Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(268): CakeValidationSet->validate(Array, true)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(99): ModelValidator->errors(Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3502): ModelValidator->validates(Array)
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1838): Model->validates(Array)
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#7 /home/www/shibata468/cake/app/Controller/UsersController.php(108): Model->save(Array)
+#8 [internal function]: UsersController->edit('5')
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#10 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#12 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2022-08-14 18:01:24 Error: [ArgumentCountError] Too few arguments to function UsersController::edit(), 1 passed and exactly 2 expected
+Request URL: /shibata468/cake/users/edit/5
+Stack Trace:
+#0 [internal function]: UsersController->edit('5')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-15 13:52:03 Error: [ArgumentCountError] Too few arguments to function UsersController::forget(), 0 passed and exactly 1 expected
+Request URL: /shibata468/cake/users/forget
+Stack Trace:
+#0 [internal function]: UsersController->forget()
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-08-15 16:08:11 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+Request URL: /shibata468/cake/users/forget
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `User`.`...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `User`.`...', Array, Array)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `User`.`...', Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3053): DboSource->read(Object(User), Array)
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3025): Model->_readDataSource('first', Array)
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(636): Model->find('first', Array)
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(834): DboSource->query('findBymail', Array, Object(User))
+#8 /home/www/shibata468/cake/app/Controller/UsersController.php(149): Model->__call('findBymail', Array)
+#9 [internal function]: UsersController->forget()
+#10 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#11 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#12 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#13 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2022-08-15 22:28:52 Error: [MissingActionException] Action UsersController::reset.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'reset.ctp',
+)
+Request URL: /shibata468/cake/Users/reset.ctp?token=dc6db62875c2dd394eb735d6752f506bb20ab80d8537a913319e5d6a3e572494
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-15 22:28:56 Error: [MissingActionException] Action UsersController::reset.ctp() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'reset.ctp',
+)
+Request URL: /shibata468/cake/Users/reset.ctp?token=dc6db62875c2dd394eb735d6752f506bb20ab80d8537a913319e5d6a3e572494
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2022-08-16 00:46:12 Error: [TypeError] Argument 1 passed to Hash::dimensions() must be of the type array, string given, called in /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php on line 392
+Request URL: /shibata468/cake/users/reset?token=6a5c7143aaab004f4fdc06022859b0687fd86114dae1ebc28672b67a32636f01
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(392): Hash::dimensions(' ')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(262): ModelValidator->_validationList(' ')
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(99): ModelValidator->errors(Array)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3502): ModelValidator->validates(Array)
+#4 /home/www/shibata468/cake/app/Controller/UsersController.php(205): Model->validates(Array)
+#5 [internal function]: UsersController->reset()
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#9 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2022-08-16 00:47:31 Error: [TypeError] Argument 1 passed to Hash::dimensions() must be of the type array, string given, called in /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php on line 392
+Request URL: /shibata468/cake/users/reset?token=6a5c7143aaab004f4fdc06022859b0687fd86114dae1ebc28672b67a32636f01
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(392): Hash::dimensions('password')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(262): ModelValidator->_validationList('password')
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(99): ModelValidator->errors(Array)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3502): ModelValidator->validates(Array)
+#4 /home/www/shibata468/cake/app/Controller/UsersController.php(205): Model->validates(Array)
+#5 [internal function]: UsersController->reset()
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#9 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2022-08-16 00:47:39 Error: [TypeError] Argument 1 passed to Hash::dimensions() must be of the type array, string given, called in /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php on line 392
+Request URL: /shibata468/cake/users/reset?token=6a5c7143aaab004f4fdc06022859b0687fd86114dae1ebc28672b67a32636f01
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(392): Hash::dimensions('password')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(262): ModelValidator->_validationList('password')
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(99): ModelValidator->errors(Array)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3502): ModelValidator->validates(Array)
+#4 /home/www/shibata468/cake/app/Controller/UsersController.php(205): Model->validates(Array)
+#5 [internal function]: UsersController->reset()
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#9 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2022-08-16 00:49:52 Error: [TypeError] Argument 1 passed to Hash::dimensions() must be of the type array, string given, called in /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php on line 392
+Request URL: /shibata468/cake/users/reset?token=6a5c7143aaab004f4fdc06022859b0687fd86114dae1ebc28672b67a32636f01
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(392): Hash::dimensions('password')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(262): ModelValidator->_validationList('password')
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(99): ModelValidator->errors(Array)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3502): ModelValidator->validates(Array)
+#4 /home/www/shibata468/cake/app/Controller/UsersController.php(205): Model->validates(Array)
+#5 [internal function]: UsersController->reset()
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#9 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2022-08-29 01:06:28 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User.mail' in 'where clause'
+Request URL: /shibata468/cake/users/login
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `User`.`...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `User`.`...', Array, Array)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `User`.`...', Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3053): DboSource->read(Object(User), Array)
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3025): Model->_readDataSource('first', Array)
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/Auth/BaseAuthenticate.php(129): Model->find('first', Array)
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/Auth/FormAuthenticate.php(78): BaseAuthenticate->_findUser('kumasaka350', 'b0l0ggyg2y')
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(772): FormAuthenticate->authenticate(Object(CakeRequest), Object(CakeResponse))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(612): AuthComponent->identify(Object(CakeRequest), Object(CakeResponse))
+#10 /home/www/shibata468/cake/app/Controller/UsersController.php(47): AuthComponent->login()
+#11 [internal function]: UsersController->login()
+#12 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#13 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#14 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#15 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2022-08-31 07:32:46 Error: [MissingViewException] View file "Users/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users/index.ctp',
+)
+Request URL: /shibata468/cake/users/
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName('Users/index')
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(968): View->render(NULL, NULL)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2022-09-03 18:07:07 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User.mail' in 'where clause'
+Request URL: /shibata468/cake/users/add
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT COUNT(*)...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT COUNT(*)...', Array, Array)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT COUNT(*)...', Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3053): DboSource->read(Object(User), Array)
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3025): Model->_readDataSource('count', Array)
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3462): Model->find('count', Array)
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Validator/CakeValidationRule.php(275): Model->isUnique(Array, Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Validator/CakeValidationSet.php(135): CakeValidationRule->process('mail', Array, Array)
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(268): CakeValidationSet->validate(Array, false)
+#10 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(99): ModelValidator->errors(Array)
+#11 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3502): ModelValidator->validates(Array)
+#12 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1838): Model->validates(Array)
+#13 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#14 /home/www/shibata468/cake/app/Controller/UsersController.php(32): Model->save(Array)
+#15 [internal function]: UsersController->add()
+#16 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#17 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#18 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#19 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#20 {main}
+2022-09-03 18:07:31 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User.mail' in 'where clause'
+Request URL: /shibata468/cake/users/add
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT COUNT(*)...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT COUNT(*)...', Array, Array)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT COUNT(*)...', Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3053): DboSource->read(Object(User), Array)
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3025): Model->_readDataSource('count', Array)
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3462): Model->find('count', Array)
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Validator/CakeValidationRule.php(275): Model->isUnique(Array, Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Validator/CakeValidationSet.php(135): CakeValidationRule->process('mail', Array, Array)
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(268): CakeValidationSet->validate(Array, false)
+#10 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(99): ModelValidator->errors(Array)
+#11 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3502): ModelValidator->validates(Array)
+#12 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1838): Model->validates(Array)
+#13 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#14 /home/www/shibata468/cake/app/Controller/UsersController.php(32): Model->save(Array)
+#15 [internal function]: UsersController->add()
+#16 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#17 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#18 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#19 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#20 {main}
+2022-09-03 18:07:57 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User.mail' in 'where clause'
+Request URL: /shibata468/cake/users/add
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT COUNT(*)...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT COUNT(*)...', Array, Array)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT COUNT(*)...', Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3053): DboSource->read(Object(User), Array)
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3025): Model->_readDataSource('count', Array)
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3462): Model->find('count', Array)
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Validator/CakeValidationRule.php(275): Model->isUnique(Array, Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Validator/CakeValidationSet.php(135): CakeValidationRule->process('mail', Array, Array)
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(268): CakeValidationSet->validate(Array, false)
+#10 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(99): ModelValidator->errors(Array)
+#11 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3502): ModelValidator->validates(Array)
+#12 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1838): Model->validates(Array)
+#13 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#14 /home/www/shibata468/cake/app/Controller/UsersController.php(32): Model->save(Array)
+#15 [internal function]: UsersController->add()
+#16 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#17 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#18 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#19 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#20 {main}
+2022-09-09 22:17:47 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User.mail' in 'where clause'
+Request URL: /shibata468/cake/users/add
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT COUNT(*)...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT COUNT(*)...', Array, Array)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT COUNT(*)...', Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3053): DboSource->read(Object(User), Array)
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3025): Model->_readDataSource('count', Array)
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3462): Model->find('count', Array)
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Validator/CakeValidationRule.php(275): Model->isUnique(Array, Array)
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Validator/CakeValidationSet.php(135): CakeValidationRule->process('mail', Array, Array)
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(268): CakeValidationSet->validate(Array, false)
+#10 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/ModelValidator.php(99): ModelValidator->errors(Array)
+#11 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3502): ModelValidator->validates(Array)
+#12 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1838): Model->validates(Array)
+#13 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(1760): Model->_doSave(Array, Array)
+#14 /home/www/shibata468/cake/app/Controller/UsersController.php(32): Model->save(Array)
+#15 [internal function]: UsersController->add()
+#16 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#17 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#18 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#19 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#20 {main}
+2022-09-19 16:44:38 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User.mail' in 'where clause'
+Request URL: /shibata468/cake/users/login
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `User`.`...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `User`.`...', Array, Array)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `User`.`...', Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3053): DboSource->read(Object(User), Array)
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3025): Model->_readDataSource('first', Array)
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/Auth/BaseAuthenticate.php(129): Model->find('first', Array)
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/Auth/FormAuthenticate.php(78): BaseAuthenticate->_findUser('aiueo', 'a')
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(772): FormAuthenticate->authenticate(Object(CakeRequest), Object(CakeResponse))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(612): AuthComponent->identify(Object(CakeRequest), Object(CakeResponse))
+#10 /home/www/shibata468/cake/app/Controller/UsersController.php(47): AuthComponent->login()
+#11 [internal function]: UsersController->login()
+#12 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#13 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#14 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#15 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2022-09-19 22:34:25 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'User.mail' in 'where clause'
+Request URL: /shibata468/cake/users/login
+Stack Trace:
+#0 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(502): PDOStatement->execute(Array)
+#1 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(468): DboSource->_execute('SELECT `User`.`...', Array)
+#2 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(715): DboSource->execute('SELECT `User`.`...', Array, Array)
+#3 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Datasource/DboSource.php(1226): DboSource->fetchAll('SELECT `User`.`...', Array)
+#4 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3053): DboSource->read(Object(User), Array)
+#5 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Model/Model.php(3025): Model->_readDataSource('first', Array)
+#6 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/Auth/BaseAuthenticate.php(129): Model->find('first', Array)
+#7 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/Auth/FormAuthenticate.php(78): BaseAuthenticate->_findUser('aiueo', 'a')
+#8 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(772): FormAuthenticate->authenticate(Object(CakeRequest), Object(CakeResponse))
+#9 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Component/AuthComponent.php(612): AuthComponent->identify(Object(CakeRequest), Object(CakeResponse))
+#10 /home/www/shibata468/cake/app/Controller/UsersController.php(47): AuthComponent->login()
+#11 [internal function]: UsersController->login()
+#12 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Controller/Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#13 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#14 /home/www/shibata468/cake/vendors/cakephp/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#15 /home/www/shibata468/cake/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
